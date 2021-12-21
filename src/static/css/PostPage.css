@@ -1,0 +1,44 @@
+.post_main{
+    width: 615px;
+    /* height: 700px; */
+    border: 1px solid #dbdbdb;
+    margin: 25px;
+}
+.post_header{
+    height:64px ;
+    border-bottom: 1px solid #dbdbdb;
+    display: flex;
+
+}
+.post_user_img{
+    min-width: 30px;
+    min-height: 30px;
+    margin: 10px;
+}
+.post_username{
+    font-weight: bold;
+    margin-top: 20px;
+}
+.post_img{
+    width: 615px;
+    /* height: 500px; */
+}
+.post_react{
+ 
+    width: 25px;
+    margin: 6px;
+    /* border: 1px solid black; */
+    height: 25px;
+}
+.post_Comment{
+    margin-top: 10px;
+    margin-left: 5px;
+}
+.add_comment{
+    height: 55px;
+    width: 600px;
+    border: 1px solid #dbdbdb;
+    font-size: 16px;
+    margin-top: 5px;
+    padding-left: 10px;
+}
